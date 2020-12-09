@@ -1,0 +1,2 @@
+rootProject.name='AIP Food List'
+include ':app'
